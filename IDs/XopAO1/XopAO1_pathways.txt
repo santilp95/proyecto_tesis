@@ -1,0 +1,17 @@
+PWY-1042	glycolysis IV (plant cytosol)	GAPOXNPHOSPHN-RXN	EC-1.2.1.12	G2Z-11073-MONOMER	glyceraldehyde-3-phosphate dehydrogenase	G2Z-11073	Manes.14G054600
+HEME-BIOSYNTHESIS-II	heme <i>b</i> biosynthesis I (aerobic)	RXN0-1461	EC-1.3.3.3	G2Z-11692-MONOMER	coproporphyrinogen III oxidase	G2Z-11692	Manes.16G000600
+PWY-5466	matairesinol biosynthesis	RXN-8681	-	G2Z-9169-MONOMER	(-)-lactol dehydrogenase	G2Z-9169	Manes.08G029900
+PWY-5466	matairesinol biosynthesis	RXN-8680	EC-1.1.1	G2Z-9169-MONOMER	(-)-secoisolariciresinol dehydrogenase	G2Z-9169	Manes.08G029900
+PWY-6527	stachyose degradation	RXN-11501	EC-3.2.1.22	G2Z-9203-MONOMER	"alkaline &alpha;- galactosidase"	G2Z-9203	Manes.08G049600
+GLUTORN-PWY	L-ornithine biosynthesis I	ACETYLORNDEACET-RXN	EC-3.5.1.16	G2Z-11999-MONOMER	acetylornithine deacetylase	G2Z-11999	Manes.17G013000
+GLUCONEO-PWY	gluconeogenesis I	GAPOXNPHOSPHN-RXN	EC-1.2.1.12	G2Z-11073-MONOMER	glyceraldehyde-3-phosphate dehydrogenase	G2Z-11073	Manes.14G054600
+PWY66-399	gluconeogenesis III	GAPOXNPHOSPHN-RXN	EC-1.2.1.12	G2Z-11073-MONOMER	glyceraldehyde-3-phosphate dehydrogenase	G2Z-11073	Manes.14G054600
+SUCSYN-PWY	sucrose biosynthesis I (from photosynthesis)	GAPOXNPHOSPHN-RXN	EC-1.2.1.12	G2Z-11073-MONOMER	glyceraldehyde-3-phosphate dehydrogenase	G2Z-11073	Manes.14G054600
+GLYCOLYSIS	glycolysis I (from glucose 6-phosphate)	GAPOXNPHOSPHN-RXN	EC-1.2.1.12	G2Z-11073-MONOMER	glyceraldehyde-3-phosphate dehydrogenase	G2Z-11073	Manes.14G054600
+CHLOROPHYLL-SYN	3,8-divinyl-chlorophyllide <i>a</i> biosynthesis I (aerobic, light-dependent)	RXN0-1461	EC-1.3.3.3	G2Z-11692-MONOMER	coproporphyrinogen III oxidase	G2Z-11692	Manes.16G000600
+HOMOSERSYN-PWY	L-homoserine biosynthesis	HOMOSERDEHYDROG-RXN	EC-1.1.1.3	G2Z-12543-MONOMER	homoserine dehydrogenase	G2Z-12543	Manes.S033500
+CYSTSYN-PWY	L-cysteine biosynthesis I	ACSERLY-RXN	EC-2.5.1.47	G2Z-9346-MONOMER	<i>O</i>-acetylserine sulfhydrylase	G2Z-9346	Manes.08G127300
+CYSTSYN-PWY	L-cysteine biosynthesis I	ACSERLY-RXN	EC-2.5.1.47	G2Z-9697-MONOMER	<i>O</i>-acetylserine sulfhydrylase	G2Z-9697	Manes.09G157100
+PWY-5337	stachyose biosynthesis	2.4.1.82-RXN	EC-2.4.1.82	G2Z-9203-MONOMER	raffinose synthase	G2Z-9203	Manes.08G049600
+PWY-5188	tetrapyrrole biosynthesis I (from glutamate)	GLUTRNAREDUCT-RXN	EC-1.2.1.70	G2Z-8425-MONOMER	glutamyl-tRNA reductase	G2Z-8425	Manes.05G187000
+COA-PWY	coenzyme A biosynthesis I (prokaryotic)	PANTEPADENYLYLTRAN-RXN	EC-2.7.7.3	G2Z-6606-MONOMER	pantetheine-phosphate adenylyltransferase	G2Z-6606	Manes.01G136800

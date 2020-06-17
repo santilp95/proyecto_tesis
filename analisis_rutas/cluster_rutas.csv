@@ -1,0 +1,25 @@
+;AvrBs2;XB3;XopAE;XopAG;XopAK;XopAO1;XopC2;XopE1;XopE4;XopK;XopL;XopN;XopQ;XopR;XopV;XopZ
+Carbohydrate metabolism;43;29;38;50;39;3;4;26;34;4;0;6;9;3;36;6
+Energy metabolism;21;19;17;25;20;4;0;17;17;1;0;3;7;4;18;3
+Lipid metabolism;8;6;9;16;8;0;0;8;8;2;0;0;2;1;7;3
+Nucleotide metabolism;6;5;5;4;1;0;1;5;5;1;0;1;1;0;6;3
+Amino acid metabolism;29;11;25;23;16;2;0;19;19;0;0;3;4;11;28;4
+Metabolism of other amino acids;8;6;9;9;3;0;1;8;6;0;0;2;1;1;6;4
+Glycan biosynthesis and metabolism;2;2;1;1;5;1;1;1;2;1;0;0;0;0;0;0
+Metabolism of cofactors and vitamins;11;6;11;12;5;2;1;7;9;1;1;1;6;1;10;3
+Metabolism of terpenoids and polyketides;3;2;3;2;1;0;0;3;2;0;0;0;2;0;2;1
+Biosynthesis of other secondary metabolites;15;7;17;13;11;0;1;10;11;3;0;2;1;3;12;1
+Xenobiotics biodegradation and metabolism;5;8;8;6;5;3;0;5;6;0;0;0;3;0;6;1
+Transcription;2;1;2;3;4;0;0;1;1;1;0;1;1;2;1;1
+Translation;6;13;6;9;19;1;2;8;6;2;1;2;0;6;5;1
+Folding sorting and degradation;13;11;9;11;19;4;4;10;10;2;0;3;6;7;7;2
+Replication and repair;3;8;5;4;1;0;0;2;3;0;0;0;4;1;4;2
+Membrane transport;0;0;0;0;0;0;0;1;1;0;0;0;0;0;1;0
+Signal transduction;23;20;24;25;25;2;2;16;15;3;1;4;14;8;18;4
+Signaling molecules and interaction;0;0;0;0;1;0;1;1;0;0;0;0;0;0;0;0
+Transport and catabolism;17;11;11;16;10;2;1;6;11;0;1;2;4;3;15;2
+Cell growth and death;7;12;5;6;5;1;0;2;5;2;0;0;6;3;6;0
+Cellular community - eukaryotes;1;2;2;2;4;0;0;2;1;0;0;0;0;1;1;0
+Cellular community - prokaryotes;1;0;1;2;1;0;1;0;0;0;0;0;0;0;2;0
+Cell motility;1;1;1;2;1;1;0;0;1;0;0;0;0;1;2;0
+Environmental adaptation;5;3;4;6;8;1;2;3;4;1;1;3;3;1;4;1

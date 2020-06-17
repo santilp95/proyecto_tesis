@@ -1,0 +1,366 @@
+ssh ng.gaitan@magnus.uniandes.edu.co
+
+#Extracción identificador de todas las secuencias#
+
+awk '{print $1}' IDs/AvrBs2/AvrBs2_ID_RAW > IDs/AvrBs2/AvrBs2_ID.txt
+
+awk '{print $1}' IDs/XB3/XB3_ID_RAW > IDs/XB3/XB3_ID.txt
+
+awk '{print $1}' IDs/XopAE/XopAE_ID_RAW > IDs/XopAE/XopAE_ID.txt
+
+awk '{print $1}' IDs/XopAG/XopAG_ID_RAW > IDs/XopAG/XopAG_ID.txt
+
+awk '{print $1}' IDs/XopAK/XopAK_ID_RAW > IDs/XopAK/XopAK_ID.txt
+
+awk '{print $1}' IDs/XopAO1/XopAO1_ID_RAW > IDs/XopAO1/XopAO1_ID.txt
+
+awk '{print $1}' IDs/XopC2/XopC2_ID_RAW > IDs/XopC2/XopC2_ID.txt
+
+awk '{print $1}' IDs/XopE1/XopE1_ID_RAW > IDs/XopE1/XopE1_ID.txt
+
+awk '{print $1}' IDs/XopE4/XopE4_ID_RAW > IDs/XopE4/XopE4_ID.txt
+
+awk '{print $1}' IDs/XopK/XopK_ID_RAW > IDs/XopK/XopK_ID.txt
+
+awk '{print $1}' IDs/XopL/XopL_ID_RAW > IDs/XopL/XopL_ID.txt
+
+awk '{print $1}' IDs/XopN/XopN_ID_RAW > IDs/XopN/XopN_ID.txt
+
+awk '{print $1}' IDs/XopQ/XopQ_ID_RAW > IDs/XopQ/XopQ_ID.txt
+
+awk '{print $1}' IDs/XopR/XopR_ID_RAW > IDs/XopR/XopR_ID.txt
+
+awk '{print $1}' IDs/XopV/XopV_ID_RAW > IDs/XopV/XopV_ID.txt
+
+awk '{print $1}' IDs/XopZ/XopZ_ID_RAW > IDs/XopZ/XopZ_ID.txt
+
+#Extracción identificador arabidopsis de todas las secuencias#
+awk '{print $2}' IDs/AvrBs2/AvrBs2_ID_RAW > IDs/AvrBs2/AvrBs2_ID_ara.txt
+
+awk '{print $2}' IDs/XB3/XB3_ID_RAW > IDs/XB3/XB3_ID_ara.txt
+
+awk '{print $2}' IDs/XopAE/XopAE_ID_RAW > IDs/XopAE/XopAE_ID_ara.txt
+
+awk '{print $2}' IDs/XopAG/XopAG_ID_RAW > IDs/XopAG/XopAG_ID_ara.txt
+
+awk '{print $2}' IDs/XopAK/XopAK_ID_RAW > IDs/XopAK/XopAK_ID_ara.txt
+
+awk '{print $2}' IDs/XopAO1/XopAO1_ID_RAW > IDs/XopAO1/XopAO1_ID_ara.txt
+
+awk '{print $2}' IDs/XopC2/XopC2_ID_RAW > IDs/XopC2/XopC2_ID_ara.txt
+
+awk '{print $2}' IDs/XopE1/XopE1_ID_RAW > IDs/XopE1/XopE1_ID_ara.txt
+
+awk '{print $2}' IDs/XopE4/XopE4_ID_RAW > IDs/XopE4/XopE4_ID_ara.txt
+
+awk '{print $2}' IDs/XopK/XopK_ID_RAW > IDs/XopK/XopK_ID_ara.txt
+
+awk '{print $2}' IDs/XopL/XopL_ID_RAW > IDs/XopL/XopL_ID_ara.txt
+
+awk '{print $2}' IDs/XopN/XopN_ID_RAW > IDs/XopN/XopN_ID_ara.txt
+
+awk '{print $2}' IDs/XopQ/XopQ_ID_RAW > IDs/XopQ/XopQ_ID_ara.txt
+
+awk '{print $2}' IDs/XopR/XopR_ID_RAW > IDs/XopR/XopR_ID_ara.txt
+
+awk '{print $2}' IDs/XopV/XopV_ID_RAW > IDs/XopV/XopV_ID_ara.txt
+
+awk '{print $2}' IDs/XopZ/XopZ_ID_RAW > IDs/XopZ/XopZ_ID_ara.txt
+
+#Extracción FASTA de todas las secuencias#
+#Con IDs#
+ 
+ while read p; do
+    echo '>'$p >> IDs/AvrBs2/AvrBs2_ALL_FASTA.txt
+    grep -A 10000 -w $p bases_manihot/manihot_FASTA.txt | sed -n -e '1,/>/ {/>/ !{'p''}} >> IDs/AvrBs2/AvrBs2_ALL_FASTA.txt
+    done < IDs/AvrBs2/AvrBs2_ID.txt
+    
+ while read p; do
+    echo '>'$p >> IDs/XB3/XB3_ALL_FASTA.txt
+    grep -A 10000 -w $p bases_manihot/manihot_FASTA.txt | sed -n -e '1,/>/ {/>/ !{'p''}} >> IDs/XB3/XB3_ALL_FASTA.txt
+    done < IDs/XB3/XB3_ID.txt
+
+ while read p; do
+    echo '>'$p >> IDs/XopAE/XopAE_ALL_FASTA.txt
+    grep -A 10000 -w $p bases_manihot/manihot_FASTA.txt | sed -n -e '1,/>/ {/>/ !{'p''}} >> IDs/XopAE/XopAE_ALL_FASTA.txt
+    done < IDs/XopAE/XopAE_ID.txt
+    
+ while read p; do
+    echo '>'$p >> IDs/XopAG/XopAG_ALL_FASTA.txt
+    grep -A 10000 -w $p bases_manihot/manihot_FASTA.txt | sed -n -e '1,/>/ {/>/ !{'p''}} >> IDs/XopAG/XopAG_ALL_FASTA.txt
+    done < IDs/XopAG/XopAG_ID.txt
+    
+ while read p; do
+    echo '>'$p >>  IDs/XopAK/XopAK_ALL_FASTA.txt
+    grep -A 10000 -w $p bases_manihot/manihot_FASTA.txt | sed -n -e '1,/>/ {/>/ !{'p''}} >>  IDs/XopAK/XopAK_ALL_FASTA.txt
+    done < IDs/XopAK/XopAK_ID.txt
+
+ while read p; do
+    echo '>'$p >>  IDs/XopAO1/XopAO1_ALL_FASTA.txt
+    grep -A 10000 -w $p bases_manihot/manihot_FASTA.txt | sed -n -e '1,/>/ {/>/ !{'p''}} >>  IDs/XopAO1/XopAO1_ALL_FASTA.txt
+    done < IDs/XopAO1/XopAO1_ID.txt
+    
+ while read p; do
+    echo '>'$p >>  IDs/XopC2/XopC2_ALL_FASTA.txt
+    grep -A 10000 -w $p bases_manihot/manihot_FASTA.txt | sed -n -e '1,/>/ {/>/ !{'p''}} >>  IDs/XopC2/XopC2_ALL_FASTA.txt
+    done < IDs/XopC2/XopC2_ID.txt
+    
+ while read p; do
+    echo '>'$p >>  IDs/XopE1/XopE1_ALL_FASTA.txt
+    grep -A 10000 -w $p bases_manihot/manihot_FASTA.txt | sed -n -e '1,/>/ {/>/ !{'p''}} >>  IDs/XopE1/XopE1_ALL_FASTA.txt
+    done < IDs/XopE1/XopE1_ID.txt
+    
+ while read p; do
+    echo '>'$p >>  IDs/XopE4/XopE4_ALL_FASTA.txt
+    grep -A 10000 -w $p bases_manihot/manihot_FASTA.txt | sed -n -e '1,/>/ {/>/ !{'p''}} >>  IDs/XopE4/XopE4_ALL_FASTA.txt
+    done < IDs/XopE4/XopE4_ID.txt
+    
+ while read p; do
+    echo '>'$p >>  IDs/XopK/XopK_ALL_FASTA.txt
+    grep -A 10000 -w $p bases_manihot/manihot_FASTA.txt | sed -n -e '1,/>/ {/>/ !{'p''}} >>  IDs/XopK/XopK_ALL_FASTA.txt
+    done < IDs/XopK/XopK_ID.txt
+    
+    
+ while read p; do
+    echo '>'$p >>  IDs/XopL/XopL_ALL_FASTA.txt
+    grep -A 10000 -w $p bases_manihot/manihot_FASTA.txt | sed -n -e '1,/>/ {/>/ !{'p''}} >>  IDs/XopL/XopL_ALL_FASTA.txt
+    done < IDs/XopL/XopL_ID.txt
+    
+ while read p; do
+    echo '>'$p >>  IDs/XopN/XopN_ALL_FASTA.txt
+    grep -A 10000 -w $p bases_manihot/manihot_FASTA.txt | sed -n -e '1,/>/ {/>/ !{'p''}} >>  IDs/XopN/XopN_ALL_FASTA.txt
+    done < IDs/XopN/XopN_ID.txt
+    
+ while read p; do
+    echo '>'$p >>  IDs/XopQ/XopQ_ALL_FASTA.txt
+    grep -A 10000 -w $p bases_manihot/manihot_FASTA.txt | sed -n -e '1,/>/ {/>/ !{'p''}} >>  IDs/XopQ/XopQ_ALL_FASTA.txt
+    done < IDs/XopQ/XopQ_ID.txt
+    
+ while read p; do
+    echo '>'$p >>  IDs/XopR/XopR_ALL_FASTA.txt
+    grep -A 10000 -w $p bases_manihot/manihot_FASTA.txt | sed -n -e '1,/>/ {/>/ !{'p''}} >>  IDs/XopR/XopR_ALL_FASTA.txt
+    done < IDs/XopR/XopR_ID.txt
+    
+ while read p; do
+    echo '>'$p >>  IDs/XopV/XopV_ALL_FASTA.txt
+    grep -A 10000 -w $p bases_manihot/manihot_FASTA.txt | sed -n -e '1,/>/ {/>/ !{'p''}} >>  IDs/XopV/XopV_ALL_FASTA.txt
+    done < IDs/XopV/XopV_ID.txt
+    
+ while read p; do
+    echo '>'$p >>  IDs/XopZ/XopZ_ALL_FASTA.txt
+    grep -A 10000 -w $p bases_manihot/manihot_FASTA.txt | sed -n -e '1,/>/ {/>/ !{'p''}} >>  IDs/XopZ/XopZ_ALL_FASTA.txt
+    done < IDs/XopZ/XopZ_ID.txt
+    
+    
+#Eliminar IDs sin FASTA#
+awk 'ARGV[1] == FILENAME && FNR==NR {a[$1];next} !($1 in a)' 2.txt 4.txt > _tmp && mv _tmp 4.txt
+
+#Sin IDs#
+while read p; do
+    grep -A 10000 -w $p bases_manihot/manihot_FASTA.txt | sed -n -e '1,/>/ {/>/ !{'p''}} >> intento.txt
+    done < IDs/AvrBs2/AvrBs2_ID.txt
+
+#preguntar número de filas (interactores)#
+
+wc -l AvrBs2/AvrBs2_ID.txt
+
+wc -l XB3/XB3_ID.txt
+
+wc -l XopAE/XopAE_ID.txt
+
+wc -l XopAG/XopAG_ID.txt
+
+wc -l XopAK/XopAK_ID.txt
+
+wc -l XopAO1/XopAO1_ID.txt
+
+wc -l XopC2/XopC2_ID.txt
+
+wc -l XopE1/XopE1_ID.txt
+
+wc -l XopE4/XopE4_ID.txt
+
+wc -l XopK/XopK_ID.txt
+
+wc -l XopL/XopL_ID.txt
+
+wc -l XopN/XopN_ID.txt
+
+wc -l XopQ/XopQ_ID.txt
+
+wc -l XopR/XopR_ID.txt
+
+wc -l XopV/XopV_ID.txt
+
+wc -l XopZ/XopZ_ID.txt
+
+
+wc -l AvrBs2/AvrBs2_ID_MANIHOT_EC
+
+wc -l XB3/XB3_ID_MANIHOT_EC
+
+wc -l XopAE/XopAE_ID_MANIHOT_EC
+
+wc -l XopAG/XopAG_ID_MANIHOT_EC
+
+wc -l XopAK/XopAK_ID_MANIHOT_EC
+
+wc -l XopAO1/XopAO1_ID_MANIHOT_EC
+
+wc -l XopC2/XopC2_ID_MANIHOT_EC
+
+wc -l XopE1/XopE1_ID_MANIHOT_EC
+
+wc -l XopE4/XopE4_ID_MANIHOT_EC
+
+wc -l XopK/XopK_ID_MANIHOT_EC
+
+wc -l XopL/XopL_ID_MANIHOT_EC
+
+wc -l XopN/XopN_ID_MANIHOT_EC
+
+wc -l XopQ/XopQ_ID_MANIHOT_EC
+
+wc -l XopR/XopR_ID_MANIHOT_EC
+
+wc -l XopV/XopV_ID_MANIHOT_EC
+
+wc -l XopZ/XopZ_ID_MANIHOT_EC
+
+
+
+wc -l AvrBs2/no_encontrado_AvrBs2.txt
+
+wc -l XB3/no_encontrado_XB3.txt
+
+wc -l XopAE/no_encontrado_XopAE.txt
+
+wc -l XopAG/no_encontrado_XopAG.txt
+
+wc -l XopAK/no_encontrado_XopAK.txt
+
+wc -l XopAO1/no_encontrado_XopAO1.txt
+
+wc -l XopC2/no_encontrado_XopC2.txt
+
+wc -l XopE1/no_encontrado_XopE1.txt
+
+wc -l XopE4/no_encontrado_XopE4.txt
+
+wc -l XopK/no_encontrado_XopK.txt
+
+wc -l XopL/no_encontrado_XopL.txt
+
+wc -l XopN/no_encontrado_XopN.txt
+
+wc -l XopQ/no_encontrado_XopQ.txt
+
+wc -l XopR/no_encontrado_XopR.txt
+
+wc -l XopV/no_encontrado_XopV.txt
+
+wc -l XopZ/no_encontrado_XopZ.txt
+
+##
+
+awk '($2!=0){print $2}' AvrBs2/AvrBs2_ID_RAW > AvrBs2/AvrBs2_ID_ara.txt
+
+awk '($2!=0){print $2}' XB3/XB3_ID_RAW > XB3/XB3_ID_ara.txt
+
+awk '($2!=0){print $2}' XopAE/XopAE_ID_RAW > XopAE/XopAE_ID_ara.txt
+
+awk '($2!=0){print $2}' XopAG/XopAG_ID_RAW > XopAG/XopAG_ID_ara.txt
+
+awk '($2!=0){print $2}' XopAK/XopAK_ID_RAW > XopAK/XopAK_ID_ara.txt
+
+awk '($2!=0){print $2}' XopAO1/XopAO1_ID_RAW > XopAO1/XopAO1_ID_ara.txt
+
+awk '($2!=0){print $2}' XopC2/XopC2_ID_RAW > XopC2/XopC2_ID_ara.txt
+
+awk '($2!=0){print $2}' XopE1/XopE1_ID_RAW > XopE1/XopE1_ID_ara.txt
+
+awk '($2!=0){print $2}' XopE4/XopE4_ID_RAW > XopE4/XopE4_ID_ara.txt
+
+awk '($2!=0){print $2}' XopK/XopK_ID_RAW > XopK/XopK_ID_ara.txt
+
+awk '($2!=0){print $2}' XopL/XopL_ID_RAW > XopL/XopL_ID_ara.txt
+
+awk '($2!=0){print $2}' XopN/XopN_ID_RAW > XopN/XopN_ID_ara.txt
+
+awk '($2!=0){print $2}' XopQ/XopQ_ID_RAW > XopQ/XopQ_ID_ara.txt
+
+awk '($2!=0){print $2}' XopR/XopR_ID_RAW > XopR/XopR_ID_ara.txt
+
+awk '($2!=0){print $2}' XopV/XopV_ID_RAW > XopV/XopV_ID_ara.txt
+
+awk '($2!=0){print $2}' XopZ/XopZ_ID_RAW > XopZ/XopZ_ID_ara.txt
+
+
+wc -l AvrBs2/AvrBs2_ID_ara.txt
+
+wc -l XB3/XB3_ID_ara.txt
+
+wc -l XopAE/XopAE_ID_ara.txt
+
+wc -l XopAG/XopAG_ID_ara.txt
+
+wc -l XopAK/XopAK_ID_ara.txt
+
+wc -l XopAO1/XopAO1_ID_ara.txt
+
+wc -l XopC2/XopC2_ID_ara.txt
+
+wc -l XopE1/XopE1_ID_ara.txt
+
+wc -l XopE4/XopE4_ID_ara.txt
+
+wc -l XopK/XopK_ID_ara.txt
+
+wc -l XopL/XopL_ID_ara.txt
+
+wc -l XopN/XopN_ID_ara.txt
+
+wc -l XopQ/XopQ_ID_ara.txt
+
+wc -l XopR/XopR_ID_ara.txt
+
+wc -l XopV/XopV_ID_ara.txt
+
+wc -l XopZ/XopZ_ID_ara.txt
+
+
+
+rm AvrBs2/AvrBs2_ID_ara.txt
+
+rm XB3/XB3_ID_ara.txt
+
+rm XopAE/XopAE_ID_ara.txt
+
+rm XopAG/XopAG_ID_ara.txt
+
+rm XopAK/XopAK_ID_ara.txt
+
+rm XopAO1/XopAO1_ID_ara.txt
+
+rm XopC2/XopC2_ID_ara.txt
+
+rm XopE1/XopE1_ID_ara.txt
+
+rm XopE4/XopE4_ID_ara.txt
+
+rm XopK/XopK_ID_ara.txt
+
+rm XopL/XopL_ID_ara.txt
+
+rm XopN/XopN_ID_ara.txt
+
+rm XopQ/XopQ_ID_ara.txt
+
+rm XopR/XopR_ID_ara.txt
+
+rm XopV/XopV_ID_ara.txt
+
+rm XopZ/XopZ_ID_ara.txt
+
+
+

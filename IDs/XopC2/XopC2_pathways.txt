@@ -1,0 +1,7 @@
+PWY-1042	glycolysis IV (plant cytosol)	PEPDEPHOS-RXN	EC-2.7.1.40	G2Z-9446-MONOMER	pyruvate kinase	G2Z-9446	Manes.09G007300
+PWY-622	starch biosynthesis	GLYCOGENSYN-RXN	EC-2.4.1.21	G2Z-6698-MONOMER	glycogen synthase	G2Z-6698	Manes.01G184000
+TRIGLSYN-PWY	diacylglycerol and triacylglycerol biosynthesis	PHOSPHATIDATE-PHOSPHATASE-RXN	EC-3.1.3.4	G2Z-9110-MONOMER	phosphatidate phosphatase	G2Z-9110	Manes.08G004100
+PWY-5084	2-oxoglutarate decarboxylation to succinyl-CoA	2OXOGLUTDECARB-RXN	EC-1.2.4.2	G2Z-9820-MONOMER	2-oxoglutarate decarboxylase	G2Z-9820	Manes.10G034500
+GLYCOLYSIS	glycolysis I (from glucose 6-phosphate)	PEPDEPHOS-RXN	EC-2.7.1.40	G2Z-9446-MONOMER	pyruvate kinase	G2Z-9446	Manes.09G007300
+HOMOSERSYN-PWY	L-homoserine biosynthesis	HOMOSERDEHYDROG-RXN	EC-1.1.1.3	G2Z-12446-MONOMER	homoserine dehydrogenase	G2Z-12446	Manes.18G116300
+PWY-5723	Rubisco shunt	PEPDEPHOS-RXN	EC-2.7.1.40	G2Z-9446-MONOMER	pyruvate kinase	G2Z-9446	Manes.09G007300

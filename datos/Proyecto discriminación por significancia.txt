@@ -1,0 +1,28 @@
+datos_genes_sin_filtro<-read.table(file.choose(), header =  TRUE, sep=",")
+datos_genes_con_filtro<-read.csv(header = TRUE, file.choose())
+
+AvrBs2_control_Log2_sub<-subset(datos_genes_sin_filtro$Row.names, datos_genes_sin_filtro$AvrBs2.Control___log2FoldChange >= 2)
+
+datos_genes_sin_filtro$XopN.Control___log2FoldChange
+
+XB3.Control___log2FoldChange_sub<-subset(datos_genes_sin_filtro$Row.names, datos_genes_sin_filtro$XB3.Control___log2FoldChange >= 2)
+
+XopAE.Control___log2FoldChange_sub<-subset(datos_genes_sin_filtro$Row.names, datos_genes_sin_filtro$XopAE.Control___log2FoldChange >= 2)
+
+XopAG.Control___log2FoldChange_sub<-subset(datos_genes_sin_filtro$Row.names, datos_genes_sin_filtro$XopAG.Control___log2FoldChange >= 2)
+
+XopAK.Control___log2FoldChange_sub<-subset(datos_genes_sin_filtro$Row.names, datos_genes_sin_filtro$XopAK.Control___log2FoldChange >= 2)
+
+XopAO1.Control___log2FoldChange_sub<-subset(datos_genes_sin_filtro$Row.names, datos_genes_sin_filtro$XopAO1.Control___log2FoldChange >= 2)
+
+XopC2.Control___log2FoldChange<-subset(datos_genes_sin_filtro$Row.names, datos_genes_sin_filtro$XopC2.Control___log2FoldChange >= 2)
+
+XopE1.Control___log2FoldChange<-subset(datos_genes_sin_filtro$Row.names, datos_genes_sin_filtro$XopE1.Control___log2FoldChange >= 2)
+
+XopE4.Control___log2FoldChange<-subset(datos_genes_sin_filtro$Row.names, datos_genes_sin_filtro$XopE4.Control___log2FoldChange >= 2)
+
+XopK.Control___log2FoldChange<-subset(datos_genes_sin_filtro$Row.names, datos_genes_sin_filtro$XopK.Control___log2FoldChange >= 2)
+
+XopL.Control___log2FoldChange<-subset(datos_genes_sin_filtro$Row.names, datos_genes_sin_filtro$XopL.Control___log2FoldChange >= 2)
+
+XopN.Control___log2FoldChange<-subset(datos_genes_sin_filtro$Row.names, datos_genes_sin_filtro$XopN.Control___log2FoldChange >= 2)

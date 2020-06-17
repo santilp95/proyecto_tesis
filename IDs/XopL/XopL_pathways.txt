@@ -1,0 +1,2 @@
+PWY-5466	matairesinol biosynthesis	RXN-8681	-	G2Z-9169-MONOMER	(-)-lactol dehydrogenase	G2Z-9169	Manes.08G029900
+PWY-5466	matairesinol biosynthesis	RXN-8680	EC-1.1.1	G2Z-9169-MONOMER	(-)-secoisolariciresinol dehydrogenase	G2Z-9169	Manes.08G029900

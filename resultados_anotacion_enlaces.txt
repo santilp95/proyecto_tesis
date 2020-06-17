@@ -1,0 +1,17 @@
+efector	link_anotacion_html
+AvrBs2	https://www.genome.jp/kaas-bin/kaas_main?mode=map&id=1586150168&key=8q6EuyNY
+XB3	https://www.genome.jp/kaas-bin/kaas_main?mode=map&id=1586200517&key=NZNiSGZ1
+XopAE	https://www.genome.jp/kaas-bin/kaas_main?mode=map&id=1586202458&key=zbp4oPGb
+XopAG	https://www.genome.jp/kaas-bin/kaas_main?mode=map&id=1586203726&key=hYEg3mCp
+XopAK	https://www.genome.jp/kaas-bin/kaas_main?mode=map&id=1586204538&key=2rgwkJf4
+XopAO1	https://www.genome.jp/kaas-bin/kaas_main?mode=map&id=1586205078&key=79pZD2yQ
+XopC2	https://www.genome.jp/kaas-bin/kaas_main?mode=map&id=1586205603&key=hOir1Gcv
+XopE1	https://www.genome.jp/kaas-bin/kaas_main?mode=map&id=1586206440&key=Hz6mXZnH
+XopE4	https://www.genome.jp/kaas-bin/kaas_main?mode=map&id=1586206943&key=7fsnM2hZ
+XopK	https://www.genome.jp/kaas-bin/kaas_main?mode=map&id=1586207387&key=OX8EjUF1
+XopL	https://www.genome.jp/kaas-bin/kaas_main?mode=map&id=1586207706&key=uYsj38Jz
+XopN	https://www.genome.jp/kaas-bin/kaas_main?mode=map&id=1586208138&key=xEMFlFrP
+XopQ	https://www.genome.jp/kaas-bin/kaas_main?mode=map&id=1586208844&key=3GjztYII
+XopR	https://www.genome.jp/kaas-bin/kaas_main?mode=map&id=1586209253&key=7CN2VUd6
+XopV	https://www.genome.jp/kaas-bin/kaas_main?mode=map&id=1586209826&key=_B__mB5w
+XopZ	https://www.genome.jp/kaas-bin/kaas_main?mode=map&id=1586210363&key=66BUvwGD

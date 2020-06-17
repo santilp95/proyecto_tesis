@@ -1,0 +1,47 @@
+PWY-6837	fatty acid beta-oxidation V (unsaturated, odd number, di-isomerase-dependent)	RXN-12518	EC-1.3.3.6	G2Z-10518-MONOMER	fatty-acyl coenzyme A oxidase	G2Z-10518	Manes.12G092800
+ASPARAGINE-DEG1-PWY	L-asparagine degradation I	ASPARAGHYD-RXN	EC-3.5.1.38	G2Z-12301-MONOMER	asparaginase	G2Z-12301	Manes.18G041700
+CALVIN-PWY	Calvin-Benson-Bassham cycle	F16BDEPHOS-RXN	EC-3.1.3.11	G2Z-7222-MONOMER	fructose-1,6-bisphosphatase	G2Z-7222	Manes.02G178700
+PWY-1042	glycolysis IV (plant cytosol)	PEPDEPHOS-RXN	EC-2.7.1.40	G2Z-9446-MONOMER	pyruvate kinase	G2Z-9446	Manes.09G007300
+PWY-5910	superpathway of geranylgeranyldiphosphate biosynthesis I (via mevalonate)	PWY-5120	-	G2Z-10221-MONOMER		G2Z-10221	Manes.11G098400
+PWY-7187	pyrimidine deoxyribonucleotides <i>de novo</i> biosynthesis II	DTDPKIN-RXN	EC-2.7.4.6	G2Z-8154-MONOMER	dTDP kinase	G2Z-8154	Manes.05G056000
+PWY-7224	purine deoxyribonucleosides salvage	DADPKIN-RXN	EC-2.7.4.6	G2Z-8154-MONOMER	dADP kinase	G2Z-8154	Manes.05G056000
+PWY-7224	purine deoxyribonucleosides salvage	DGDPKIN-RXN	EC-2.7.4.6	G2Z-8154-MONOMER	dGDP kinase	G2Z-8154	Manes.05G056000
+PWY1F-353	glycine betaine biosynthesis III (plants)	BADH-RXN	EC-1.2.1.8	G2Z-10808-MONOMER	betaine aldehyde dehydrogenase	G2Z-10808	Manes.13G085600
+PWY1F-467	phenylpropanoid biosynthesis, initial reactions	PHENYLALANINE-AMMONIA-LYASE-RXN	EC-4.3.1.25	G2Z-9032-MONOMER	phenylalanine ammonia-lyase	G2Z-9032	Manes.07G098700
+PWY-7227	adenosine deoxyribonucleotides <i>de novo</i> biosynthesis	DADPKIN-RXN	EC-2.7.4.6	G2Z-8154-MONOMER	dADP kinase	G2Z-8154	Manes.05G056000
+HEME-BIOSYNTHESIS-II	heme <i>b</i> biosynthesis I (aerobic)	PROTOPORGENOXI-RXN	EC-1.3.3.4	G2Z-8059-MONOMER	protoporphyrinogen oxidase	G2Z-8059	Manes.05G008200
+PWY-5863	superpathway of phylloquinol biosynthesis	PWY-5120	-	G2Z-10221-MONOMER		G2Z-10221	Manes.11G098400
+PWY0-166	superpathway of pyrimidine deoxyribonucleotides <i>de novo</i> biosynthesis (E. coli)	DTDPKIN-RXN	EC-2.7.4.6	G2Z-8154-MONOMER	dTDP kinase	G2Z-8154	Manes.05G056000
+PWY0-166	superpathway of pyrimidine deoxyribonucleotides <i>de novo</i> biosynthesis (E. coli)	DUDPKIN-RXN	EC-2.7.4.6	G2Z-8154-MONOMER	dUDP kinase	G2Z-8154	Manes.05G056000
+PWY0-166	superpathway of pyrimidine deoxyribonucleotides <i>de novo</i> biosynthesis (E. coli)	DCDPKIN-RXN	EC-2.7.4.6	G2Z-8154-MONOMER	dCDP kinase	G2Z-8154	Manes.05G056000
+PWY-5121	superpathway of geranylgeranyl diphosphate biosynthesis II (via MEP)	PWY-5120	-	G2Z-10221-MONOMER		G2Z-10221	Manes.11G098400
+PWY-5136	"fatty acid &beta;-oxidation II (peroxisome)"	RXN-11026	EC-1.3.3.6	G2Z-6954-MONOMER	acyl-CoA oxidase	G2Z-6954	Manes.02G041600
+PWY-5136	"fatty acid &beta;-oxidation II (peroxisome)"	RXN-11026	EC-1.3.3.6	G2Z-10518-MONOMER	acyl-CoA oxidase	G2Z-10518	Manes.12G092800
+PWY-7221	guanosine ribonucleotides <i>de novo</i> biosynthesis	GDPKIN-RXN	EC-2.7.4.6	G2Z-8154-MONOMER		G2Z-8154	Manes.05G056000
+GLUTORN-PWY	L-ornithine biosynthesis I	ACETYLORNDEACET-RXN	EC-3.5.1.16	G2Z-11999-MONOMER	acetylornithine deacetylase	G2Z-11999	Manes.17G013000
+PWY-43	putrescine biosynthesis II	ARGDECARBOX-RXN	EC-4.1.1.19	G2Z-10194-MONOMER	arginine decarboxylase, biosynthetic	G2Z-10194	Manes.11G081600
+GLUCONEO-PWY	gluconeogenesis I	F16BDEPHOS-RXN	EC-3.1.3.11	G2Z-7222-MONOMER	fructose-1,6-bisphosphatase	G2Z-7222	Manes.02G178700
+PWY66-399	gluconeogenesis III	F16BDEPHOS-RXN	EC-3.1.3.11	G2Z-7222-MONOMER	fructose-1,6-bisphosphatase	G2Z-7222	Manes.02G178700
+TRIGLSYN-PWY	diacylglycerol and triacylglycerol biosynthesis	DIACYLGLYCEROL-O-ACYLTRANSFERASE-RXN	EC-2.3.1.20	G2Z-9699-MONOMER	acyl-CoA:diacylglycerol acyltransferase	G2Z-9699	Manes.09G158200
+PWY-7176	UTP and CTP <i>de novo</i> biosynthesis	UDPKIN-RXN	EC-2.7.4.6	G2Z-8154-MONOMER	UDP kinase	G2Z-8154	Manes.05G056000
+SUCSYN-PWY	sucrose biosynthesis I (from photosynthesis)	F16BDEPHOS-RXN	EC-3.1.3.11	G2Z-7222-MONOMER	fructose-1,6-bisphosphatase	G2Z-7222	Manes.02G178700
+PWY-1121	suberin monomers biosynthesis	PHENYLALANINE-AMMONIA-LYASE-RXN	EC-4.3.1.25	G2Z-9032-MONOMER	phenylalanine ammonia-lyase	G2Z-9032	Manes.07G098700
+GLYCOLYSIS	glycolysis I (from glucose 6-phosphate)	F16BDEPHOS-RXN	EC-3.1.3.11	G2Z-7222-MONOMER	fructose-1,6-bisphosphatase	G2Z-7222	Manes.02G178700
+GLYCOLYSIS	glycolysis I (from glucose 6-phosphate)	PEPDEPHOS-RXN	EC-2.7.1.40	G2Z-9446-MONOMER	pyruvate kinase	G2Z-9446	Manes.09G007300
+PWY-7226	guanosine deoxyribonucleotides <i>de novo</i> biosynthesis I	DGDPKIN-RXN	EC-2.7.4.6	G2Z-8154-MONOMER	dGDP kinase	G2Z-8154	Manes.05G056000
+PWY-7205	CMP phosphorylation	CDPKIN-RXN	EC-2.7.4.6	G2Z-8154-MONOMER	CDP kinase	G2Z-8154	Manes.05G056000
+PWY-6457	<i>trans</i>-cinnamoyl-CoA biosynthesis	PHENYLALANINE-AMMONIA-LYASE-RXN	EC-4.3.1.25	G2Z-9032-MONOMER	phenylalanine ammonia-lyase	G2Z-9032	Manes.07G098700
+CHLOROPHYLL-SYN	3,8-divinyl-chlorophyllide <i>a</i> biosynthesis I (aerobic, light-dependent)	PROTOPORGENOXI-RXN	EC-1.3.3.4	G2Z-8059-MONOMER	protoporphyrinogen oxidase	G2Z-8059	Manes.05G008200
+PWY0-1507	biotin biosynthesis from 8-amino-7-oxononanoate I	2.8.1.6-RXN	EC-2.8.1.6	G2Z-7809-MONOMER	biotin synthase	G2Z-7809	Manes.04G040500
+HOMOSERSYN-PWY	L-homoserine biosynthesis	HOMOSERDEHYDROG-RXN	EC-1.1.1.3	G2Z-12446-MONOMER	homoserine dehydrogenase	G2Z-12446	Manes.18G116300
+PWY-7184	pyrimidine deoxyribonucleotides <i>de novo</i> biosynthesis I	DTDPKIN-RXN	EC-2.7.4.6	G2Z-8154-MONOMER	dTDP kinase	G2Z-8154	Manes.05G056000
+PWY-7184	pyrimidine deoxyribonucleotides <i>de novo</i> biosynthesis I	DUDPKIN-RXN	EC-2.7.4.6	G2Z-8154-MONOMER	dUDP kinase	G2Z-8154	Manes.05G056000
+PWY-7184	pyrimidine deoxyribonucleotides <i>de novo</i> biosynthesis I	DCDPKIN-RXN	EC-2.7.4.6	G2Z-8154-MONOMER	dCDP kinase	G2Z-8154	Manes.05G056000
+PWY-861	dhurrin biosynthesis	RXN-743	EC-2.4.1.85	G2Z-10589-MONOMER	UDP-glucose:<I>p</I>-hydroxymandelonitrile-<I>O</I>-glucosyltransferase	G2Z-10589	Manes.12G132300
+PWY-7197	pyrimidine deoxyribonucleotide phosphorylation	DCDPKIN-RXN	EC-2.7.4.6	G2Z-8154-MONOMER	dCDP kinase	G2Z-8154	Manes.05G056000
+PWY-7197	pyrimidine deoxyribonucleotide phosphorylation	DTDPKIN-RXN	EC-2.7.4.6	G2Z-8154-MONOMER	dTDP kinase	G2Z-8154	Manes.05G056000
+PWY-735	jasmonic acid biosynthesis	RXN-10706	EC-1.3.3.6	G2Z-6954-MONOMER	fatty-acyl coenzyme A oxidase	G2Z-6954	Manes.02G041600
+PWY-735	jasmonic acid biosynthesis	RXN-10707	EC-1.3.3.6	G2Z-6954-MONOMER	fatty-acyl coenzyme A oxidase	G2Z-6954	Manes.02G041600
+PWY-735	jasmonic acid biosynthesis	RXN-10696	EC-1.3.3.6	G2Z-6954-MONOMER	fatty-acyl coenzyme A oxidase	G2Z-6954	Manes.02G041600
+PWY-5120	geranylgeranyl diphosphate biosynthesis	FARNESYLTRANSTRANSFERASE-RXN	EC-2.5.1.29	G2Z-10221-MONOMER	geranylgeranyl diphosphate synthase	G2Z-10221	Manes.11G098400
+PWY-5723	Rubisco shunt	PEPDEPHOS-RXN	EC-2.7.1.40	G2Z-9446-MONOMER	pyruvate kinase	G2Z-9446	Manes.09G007300

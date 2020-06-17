@@ -1,0 +1,10 @@
+
+ El cluster 1 está compuesto por las rutas: 
+Metabolism of cofactors and vitamins, Translation, Signal transduction, Transport and catabolism, Environmental adaptation
+ El cluster 2 está compuesto por las rutas: 
+Lipid metabolism, Nucleotide metabolism, Metabolism of other amino acids, Glycan biosynthesis and metabolism, Metabolism of terpenoids and polyketides, Biosynthesis of other secondary metabolites, Xenobiotics biodegradation and metabolism, Transcription, Replication and repair, Membrane transport, Signaling molecules and interaction, Cell growth and death, Cellular community - eukaryotes, Cellular community - prokaryotes, Cell motility
+ El cluster 3 está compuesto por las rutas: 
+Carbohydrate metabolism
+ El cluster 4 está compuesto por las rutas: 
+Energy metabolism, Amino acid metabolism, Folding sorting and degradation
+

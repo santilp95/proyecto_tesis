@@ -1,0 +1,6 @@
+
+ El cluster 1 está compuesto por los efectores: 
+AvrBs2, XB3, XopAE, XopAG, XopAK, XopAO1, XopC2, XopE1, XopE4, XopK, XopN, XopQ, XopR, XopV, XopZ
+ El cluster 2 está compuesto por los efectores: 
+XopL
+

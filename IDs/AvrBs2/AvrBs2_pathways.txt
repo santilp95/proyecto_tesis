@@ -1,0 +1,227 @@
+ASPARAGINE-DEG1-PWY	L-asparagine degradation I	ASPARAGHYD-RXN	EC-3.5.1.38	G2Z-7733-MONOMER	asparaginase	G2Z-7733	Manes.04G000700
+PWY-7560	methylerythritol phosphate pathway II	IPPISOM-RXN	EC-5.3.3.2	G2Z-10353-MONOMER	"isopentenyl-diphosphate &Delta;-isomerase"	G2Z-10353	Manes.12G005500
+PWY-7560	methylerythritol phosphate pathway II	IPPISOM-RXN	EC-5.3.3.2	G2Z-10667-MONOMER	"isopentenyl-diphosphate &Delta;-isomerase"	G2Z-10667	Manes.13G005300
+PWY-7560	methylerythritol phosphate pathway II	ISPH2-RXN	EC-1.17.7.4	G2Z-11608-MONOMER	isopentenyl-diphosphate:NAD(P)+ oxidoreductase	G2Z-11608	Manes.15G147700
+PWY-7560	methylerythritol phosphate pathway II	RXN0-884	EC-1.17.7.4	G2Z-11608-MONOMER	dimethylallyl-diphosphate:NAD(P)+ oxidoreductase	G2Z-11608	Manes.15G147700
+PWY-2541	plant sterol biosynthesis	RXN-4224	-	G2Z-7490-MONOMER	"&Delta;<sup>24-25</sup>-sitosterol reductase"	G2Z-7490	Manes.03G081200
+PWY-2541	plant sterol biosynthesis	RXN-4221	-	G2Z-7490-MONOMER	isofucosterol isomerase	G2Z-7490	Manes.03G081200
+PWY-2541	plant sterol biosynthesis	RXN-4222	-	G2Z-7490-MONOMER	24-methylenecholesterol isomerase	G2Z-7490	Manes.03G081200
+PWY-2541	plant sterol biosynthesis	RXN-708	EC-1.3	G2Z-7490-MONOMER	24-methyldesmosterol reductase	G2Z-7490	Manes.03G081200
+PWY-5114	UDP-sugars interconversion	PWY-7346	-	G2Z-6538-MONOMER		G2Z-6538	Manes.01G097900
+PWY-5114	UDP-sugars interconversion	PWY-7346	-	G2Z-12646-MONOMER		G2Z-12646	Manes.S094200
+PWY-5114	UDP-sugars interconversion	PWY-7344	-	G2Z-7719-MONOMER		G2Z-7719	Manes.03G206800
+PWY-5114	UDP-sugars interconversion	PWY-5113	-	G2Z-7752-MONOMER		G2Z-7752	Manes.04G010600
+PWY-6959	L-ascorbate degradation V	RXN-12440	EC-1.11.1.11	G2Z-7782-MONOMER	<small>L</small>-ascorbate peroxidase	G2Z-7782	Manes.04G026800
+PWY-2261	ascorbate glutathione cycle	RXN-3521	-	G2Z-7782-MONOMER	L-ascorbate peroxidase	G2Z-7782	Manes.04G026800
+OXIDATIVEPENT-PWY	pentose phosphate pathway (oxidative branch) I	6PGLUCONOLACT-RXN	EC-3.1.1.31	G2Z-6416-MONOMER	6-phosphogluconolactonase	G2Z-6416	Manes.01G038600
+NONOXIPENT-PWY	pentose phosphate pathway (non-oxidative branch)	RIB5PISOM-RXN	EC-5.3.1.6	G2Z-8580-MONOMER	ribose-5-phosphate isomerase	G2Z-8580	Manes.06G061700
+CALVIN-PWY	Calvin-Benson-Bassham cycle	RIB5PISOM-RXN	EC-5.3.1.6	G2Z-8580-MONOMER	ribose-5-phosphate isomerase	G2Z-8580	Manes.06G061700
+CALVIN-PWY	Calvin-Benson-Bassham cycle	PHOSPHORIBULOKINASE-RXN	EC-2.7.1.19	G2Z-12539-MONOMER	phosphoribulokinase	G2Z-12539	Manes.S031800
+CALVIN-PWY	Calvin-Benson-Bassham cycle	F16BDEPHOS-RXN	EC-3.1.3.11	G2Z-7222-MONOMER	fructose-1,6-bisphosphatase	G2Z-7222	Manes.02G178700
+CALVIN-PWY	Calvin-Benson-Bassham cycle	F16ALDOLASE-RXN	EC-4.1.2.13	G2Z-7072-MONOMER	fructose-bisphosphate aldolase	G2Z-7072	Manes.02G101600
+CALVIN-PWY	Calvin-Benson-Bassham cycle	1.2.1.13-RXN	EC-1.2.1.13	G2Z-12221-MONOMER	glyceraldehyde-3-phosphate dehydrogenase	G2Z-12221	Manes.18G003300
+CALVIN-PWY	Calvin-Benson-Bassham cycle	RIBULOSE-BISPHOSPHATE-CARBOXYLASE-RXN	EC-4.1.1.39	G2Z-6362-MONOMER	ribulose bisphosphate carboxylase	G2Z-6362	Manes.01G011500
+PWY1F-823	leucopelargonidin and leucocyanidin biosynthesis	DIHYDROKAEMPFEROL-4-REDUCTASE-RXN	EC-1.1.1.219	G2Z-12259-MONOMER		G2Z-12259	Manes.18G022300
+PWY-6733	sporopollenin precursors biosynthesis	RXN-9666	EC-3.1.2.2	G2Z-7981-MONOMER		G2Z-7981	Manes.04G130600
+PWY-6733	sporopollenin precursors biosynthesis	RXN-9624	EC-3.1.2.2	G2Z-7981-MONOMER		G2Z-7981	Manes.04G130600
+PWY-6733	sporopollenin precursors biosynthesis	PALMITOYL-COA-HYDROLASE-RXN	EC-3.1.2.2	G2Z-7981-MONOMER		G2Z-7981	Manes.04G130600
+PWY-6733	sporopollenin precursors biosynthesis	RXN-9627	EC-3.1.2.2	G2Z-7981-MONOMER		G2Z-7981	Manes.04G130600
+VALDEG-PWY	L-valine degradation I	RXN-11213	EC-1.2.1.27	G2Z-9938-MONOMER		G2Z-9938	Manes.10G095900
+PWY-1042	glycolysis IV (plant cytosol)	PEPDEPHOS-RXN	EC-2.7.1.40	G2Z-9676-MONOMER	pyruvate kinase	G2Z-9676	Manes.09G143000
+PWY-1042	glycolysis IV (plant cytosol)	GAPOXNPHOSPHN-RXN	EC-1.2.1.12	G2Z-12221-MONOMER	glyceraldehyde-3-phosphate dehydrogenase	G2Z-12221	Manes.18G003300
+PWY-1042	glycolysis IV (plant cytosol)	F16ALDOLASE-RXN	EC-4.1.2.13	G2Z-7072-MONOMER	fructose-bisphosphate aldolase	G2Z-7072	Manes.02G101600
+PWY-7187	pyrimidine deoxyribonucleotides <i>de novo</i> biosynthesis II	DTDPKIN-RXN	EC-2.7.4.6	G2Z-8154-MONOMER	dTDP kinase	G2Z-8154	Manes.05G056000
+PWY-7238	sucrose biosynthesis II	PGLUCISOM-RXN	EC-5.3.1.9	G2Z-12333-MONOMER	glucose-6-phosphate isomerase	G2Z-12333	Manes.18G060600
+PWY-7238	sucrose biosynthesis II	RXN-14354	EC-2.4.1.25	G2Z-9415-MONOMER	"&beta;-maltose 4-&alpha;-glucanotransferase"	G2Z-9415	Manes.08G162200
+NONMEVIPP-PWY	methylerythritol phosphate pathway I	IPPISOM-RXN	EC-5.3.3.2	G2Z-10353-MONOMER	"isopentenyl-diphosphate &Delta;-isomerase"	G2Z-10353	Manes.12G005500
+NONMEVIPP-PWY	methylerythritol phosphate pathway I	IPPISOM-RXN	EC-5.3.3.2	G2Z-10667-MONOMER	"isopentenyl-diphosphate &Delta;-isomerase"	G2Z-10667	Manes.13G005300
+NONMEVIPP-PWY	methylerythritol phosphate pathway I	ISPH2-RXN	EC-1.17.7.4	G2Z-11608-MONOMER	isopentenyl-diphosphate:NAD(P)+ oxidoreductase	G2Z-11608	Manes.15G147700
+NONMEVIPP-PWY	methylerythritol phosphate pathway I	RXN0-884	EC-1.17.7.4	G2Z-11608-MONOMER	dimethylallyl-diphosphate:NAD(P)+ oxidoreductase	G2Z-11608	Manes.15G147700
+PWY-922	mevalonate pathway I	IPPISOM-RXN	EC-5.3.3.2	G2Z-10353-MONOMER	"isopentenyl-diphosphate &Delta;-isomerase"	G2Z-10353	Manes.12G005500
+PWY-922	mevalonate pathway I	IPPISOM-RXN	EC-5.3.3.2	G2Z-10667-MONOMER	"isopentenyl-diphosphate &Delta;-isomerase"	G2Z-10667	Manes.13G005300
+PWY-922	mevalonate pathway I	DIPHOSPHOMEVALONTE-DECARBOXYLASE-RXN	EC-4.1.1.33	G2Z-9014-MONOMER	diphosphomevalonate decarboxylase	G2Z-9014	Manes.07G087500
+PWY-6535	4-aminobutanoate degradation I	GABATRANSAM-RXN	EC-2.6.1.19	G2Z-9245-MONOMER	4-aminobutyrate transaminase	G2Z-9245	Manes.08G069100
+PWY-4661	1D-<i>myo</i>-inositol hexakisphosphate biosynthesis III (<i>Spirodela polyrrhiza</i>)	MYO-INOSITOL-1-PHOSPHATE-SYNTHASE-RXN	EC-5.5.1.4	G2Z-10819-MONOMER	inositol-3-phosphate synthase	G2Z-10819	Manes.13G091100
+PWY-7224	purine deoxyribonucleosides salvage	DADPKIN-RXN	EC-2.7.4.6	G2Z-8154-MONOMER	dADP kinase	G2Z-8154	Manes.05G056000
+PWY-7224	purine deoxyribonucleosides salvage	DGDPKIN-RXN	EC-2.7.4.6	G2Z-8154-MONOMER	dGDP kinase	G2Z-8154	Manes.05G056000
+PWY-6473	4-aminobutanoate degradation IV	RXN-6902	EC-2.6.1.96	G2Z-9245-MONOMER	gamma aminobutyrate transaminase	G2Z-9245	Manes.08G069100
+PWY1F-353	glycine betaine biosynthesis III (plants)	BADH-RXN	EC-1.2.1.8	G2Z-8647-MONOMER	betaine aldehyde dehydrogenase	G2Z-8647	Manes.06G100200
+PWY1F-353	glycine betaine biosynthesis III (plants)	BADH-RXN	EC-1.2.1.8	G2Z-10808-MONOMER	betaine aldehyde dehydrogenase	G2Z-10808	Manes.13G085600
+PWY-4321	L-glutamate degradation IV	RXN-6902	EC-2.6.1.96	G2Z-9245-MONOMER	gamma aminobutyrate transaminase	G2Z-9245	Manes.08G069100
+PWY-4321	L-glutamate degradation IV	GABATRANSAM-RXN	EC-2.6.1.19	G2Z-9245-MONOMER	4-aminobutyrate transaminase	G2Z-9245	Manes.08G069100
+PWY-7199	pyrimidine deoxyribonucleosides salvage	THYKI-RXN	EC-2.7.1.145	G2Z-10777-MONOMER	thymidine kinase	G2Z-10777	Manes.13G064000
+PWY-7199	pyrimidine deoxyribonucleosides salvage	DURIDKI-RXN	EC-2.7.1.145	G2Z-10777-MONOMER	deoxyuridine kinase	G2Z-10777	Manes.13G064000
+PWY-3841	folate transformations II	1.5.1.20-RXN	EC-1.5.1.20	G2Z-6356-MONOMER	5,10-methylenetetrahydrofolate reductase	G2Z-6356	Manes.01G008800
+PWY-3841	folate transformations II	DIHYDROFOLATEREDUCT-RXN	EC-1.5.1.3	G2Z-7166-MONOMER	dihydrofolate reductase	G2Z-7166	Manes.02G147600
+PWY-1061	homogalacturonan biosynthesis	2.4.1.43-RXN	EC-2.4.1.43	G2Z-8128-MONOMER	UDP-D-galacturonate:1,4-a-poly-D-galacturonate 4-a-D-galacturonosyltransferase	G2Z-8128	Manes.05G042200
+PWY-1801	formaldehyde oxidation II (glutathione-dependent)	S-FORMYLGLUTATHIONE-HYDROLASE-RXN	EC-3.1.2.12	G2Z-9209-MONOMER	<i>S</i>-formylglutathione hydrolase	G2Z-9209	Manes.08G052000
+PWY-6443	"benzoate biosynthesis I (CoA-dependent, &beta;-oxidative)"	RXN-11272	-	G2Z-12180-MONOMER		G2Z-12180	Manes.17G107500
+PWY-6443	"benzoate biosynthesis I (CoA-dependent, &beta;-oxidative)"	RXN-11272	-	G2Z-8187-MONOMER		G2Z-8187	Manes.05G070500
+LIPAS-PWY	triacylglycerol degradation	TRIACYLGLYCEROL-LIPASE-RXN	EC-3.1.1.3	G2Z-7086-MONOMER	TGL1	G2Z-7086	Manes.02G107900
+LIPAS-PWY	triacylglycerol degradation	TRIACYLGLYCEROL-LIPASE-RXN	EC-3.1.1.3	G2Z-7697-MONOMER	TGL1	G2Z-7697	Manes.03G191800
+LIPAS-PWY	triacylglycerol degradation	TRIACYLGLYCEROL-LIPASE-RXN	EC-3.1.1.3	G2Z-11347-MONOMER	TGL1	G2Z-11347	Manes.15G015900
+LIPAS-PWY	triacylglycerol degradation	TRIACYLGLYCEROL-LIPASE-RXN	EC-3.1.1.3	G2Z-11543-MONOMER	TGL1	G2Z-11543	Manes.15G115900
+PWY-7227	adenosine deoxyribonucleotides <i>de novo</i> biosynthesis	DADPKIN-RXN	EC-2.7.4.6	G2Z-8154-MONOMER	dADP kinase	G2Z-8154	Manes.05G056000
+PWY-641	proanthocyanidins biosynthesis from flavanols	RXN-10693	EC-1.3.1.77	G2Z-11729-MONOMER	anthocyanidin reductase	G2Z-11729	Manes.16G016400
+PWY-3821	D-galactose detoxification	UDPGLUCEPIM-RXN	EC-5.1.3.2	G2Z-7719-MONOMER	UDP-glucose 4-epimerase	G2Z-7719	Manes.03G206800
+PWY-3821	D-galactose detoxification	GALACTOKIN-RXN	EC-2.7.1.6	G2Z-7719-MONOMER	galactokinase	G2Z-7719	Manes.03G206800
+PWY1F-FLAVSYN	flavonoid biosynthesis	NARINGENIN-3-DIOXYGENASE-RXN	EC-1.14.11.9	G2Z-7077-MONOMER		G2Z-7077	Manes.02G104700
+PWY1F-FLAVSYN	flavonoid biosynthesis	NARINGENIN-3-DIOXYGENASE-RXN	EC-1.14.11.9	G2Z-6421-MONOMER		G2Z-6421	Manes.01G043500
+PWY1F-FLAVSYN	flavonoid biosynthesis	NARINGENIN-CHALCONE-SYNTHASE-RXN	EC-2.3.1.74	G2Z-7915-MONOMER	naringenin-chalcone synthase	G2Z-7915	Manes.04G094200
+PWY-6787	flavonoid biosynthesis (in equisetum)	NARINGENIN-3-DIOXYGENASE-RXN	EC-1.14.11.9	G2Z-7077-MONOMER		G2Z-7077	Manes.02G104700
+PWY-6787	flavonoid biosynthesis (in equisetum)	NARINGENIN-3-DIOXYGENASE-RXN	EC-1.14.11.9	G2Z-6421-MONOMER		G2Z-6421	Manes.01G043500
+PWY-6787	flavonoid biosynthesis (in equisetum)	NARINGENIN-CHALCONE-SYNTHASE-RXN	EC-2.3.1.74	G2Z-7915-MONOMER	naringenin-chalcone synthase	G2Z-7915	Manes.04G094200
+PWY0-662	PRPP biosynthesis I	PRPPSYN-RXN	EC-2.7.6.1	G2Z-8167-MONOMER	ribose-phosphate diphosphokinase	G2Z-8167	Manes.05G060700
+PWY-6792	scopoletin biosynthesis	CAFFEOYL-COA-O-METHYLTRANSFERASE-RXN	EC-2.1.1.104	G2Z-10897-MONOMER	caffeoyl-CoA 3-<i>O</i>-methyltransferase	G2Z-10897	Manes.13G122600
+PWY-6792	scopoletin biosynthesis	CAFFEOYL-COA-O-METHYLTRANSFERASE-RXN	EC-2.1.1.104	G2Z-11587-MONOMER	caffeoyl-CoA 3-<i>O</i>-methyltransferase	G2Z-11587	Manes.15G136300
+PWY-6792	scopoletin biosynthesis	CAFFEOYL-COA-O-METHYLTRANSFERASE-RXN	EC-2.1.1.104	G2Z-12124-MONOMER	caffeoyl-CoA 3-<i>O</i>-methyltransferase	G2Z-12124	Manes.17G085500
+PWY-622	starch biosynthesis	PGLUCISOM-RXN	EC-5.3.1.9	G2Z-12333-MONOMER	glucose-6-phosphate isomerase	G2Z-12333	Manes.18G060600
+HEME-BIOSYNTHESIS-II	heme <i>b</i> biosynthesis I (aerobic)	RXN0-1461	EC-1.3.3.3	G2Z-11692-MONOMER	coproporphyrinogen III oxidase	G2Z-11692	Manes.16G000600
+PWY-4702	phytate degradation I	RXN0-5408	EC-3.1.3.25	G2Z-7900-MONOMER	inositol-phosphate phosphatase	G2Z-7900	Manes.04G087000
+PWY-4702	phytate degradation I	RXN-7253	EC-3.1.3.25	G2Z-7900-MONOMER		G2Z-7900	Manes.04G087000
+PWY-6754	<i>S</i>-methyl-5'-thioadenosine degradation I	METHYLTHIOADENOSINE-NUCLEOSIDASE-RXN	EC-3.2.2.16	G2Z-7888-MONOMER	5'-methylthioadenosine nucleosidase	G2Z-7888	Manes.04G078800
+PWY-621	sucrose degradation III (sucrose invertase)	PGLUCISOM-RXN	EC-5.3.1.9	G2Z-12333-MONOMER	glucose-6-phosphate isomerase	G2Z-12333	Manes.18G060600
+PWY-3781	aerobic respiration I (cytochrome c)	NADH-DEHYDROG-A-RXN	EC-1.6.5.3	G2Z-9416-MONOMER	NADH:ubiquinone oxidoreductase (H<sup>+</sup>-transporting)	G2Z-9416	Manes.08G162700
+PWY-2301	<i>myo</i>-inositol biosynthesis	MYO-INOSITOL-1OR-4-MONOPHOSPHATASE-RXN	EC-3.1.3.25	G2Z-7900-MONOMER	inositol-1(or 4)-monophosphatase	G2Z-7900	Manes.04G087000
+PWY-2301	<i>myo</i>-inositol biosynthesis	MYO-INOSITOL-1-PHOSPHATE-SYNTHASE-RXN	EC-5.5.1.4	G2Z-10819-MONOMER	inositol-3-phosphate synthase	G2Z-10819	Manes.13G091100
+PWY-5466	matairesinol biosynthesis	RXN-8681	-	G2Z-9169-MONOMER	(-)-lactol dehydrogenase	G2Z-9169	Manes.08G029900
+PWY-5466	matairesinol biosynthesis	RXN-8680	EC-1.1.1	G2Z-9169-MONOMER	(-)-secoisolariciresinol dehydrogenase	G2Z-9169	Manes.08G029900
+PWY-882	L-ascorbate biosynthesis I (L-galactose pathway)	RXNQT-4142	EC-3.1.3.93	G2Z-7900-MONOMER	L-galactose-1-phosphate phosphatase	G2Z-7900	Manes.04G087000
+PWY-6163	chorismate biosynthesis from 3-dehydroquinate	CHORISMATE-SYNTHASE-RXN	EC-4.2.3.5	G2Z-9836-MONOMER	chorismate synthase	G2Z-9836	Manes.10G045200
+PWY-6922	"L-<i>N<sup>&delta;</sup></i>-acetylornithine biosynthesis"	ORNITHINE-GLU-AMINOTRANSFERASE-RXN	EC-2.6.1.13	G2Z-11561-MONOMER		G2Z-11561	Manes.15G123600
+PWY-5148	acyl-CoA hydrolysis	THIOESTER-RXN	EC-3.1.2.2	G2Z-7981-MONOMER		G2Z-7981	Manes.04G130600
+PWY-6527	stachyose degradation	GALACTOKIN-RXN	EC-2.7.1.6	G2Z-7719-MONOMER	galactokinase	G2Z-7719	Manes.03G206800
+PWY-6527	stachyose degradation	UDPGLUCEPIM-RXN	EC-5.1.3.2	G2Z-7719-MONOMER	UDP-glucose 4-epimerase	G2Z-7719	Manes.03G206800
+PWY0-166	superpathway of pyrimidine deoxyribonucleotides <i>de novo</i> biosynthesis (E. coli)	DTDPKIN-RXN	EC-2.7.4.6	G2Z-8154-MONOMER	dTDP kinase	G2Z-8154	Manes.05G056000
+PWY0-166	superpathway of pyrimidine deoxyribonucleotides <i>de novo</i> biosynthesis (E. coli)	DUDPKIN-RXN	EC-2.7.4.6	G2Z-8154-MONOMER	dUDP kinase	G2Z-8154	Manes.05G056000
+PWY0-166	superpathway of pyrimidine deoxyribonucleotides <i>de novo</i> biosynthesis (E. coli)	DCDPKIN-RXN	EC-2.7.4.6	G2Z-8154-MONOMER	dCDP kinase	G2Z-8154	Manes.05G056000
+MANNOSYL-CHITO-DOLICHOL-BIOSYNTHESIS	protein <i>N</i>-glycosylation initial phase (eukaryotic)	RXN-5462	EC-2.4.1.132	G2Z-7521-MONOMER	"GDP-Man:Man<small><sub>1</sub></small>GlcNAc<small><sub>2</sub></small>-<em>PP</em>-dolichol &alpha;-1,3-mannosyltransferase"	G2Z-7521	Manes.03G100400
+MANNOSYL-CHITO-DOLICHOL-BIOSYNTHESIS	protein <i>N</i>-glycosylation initial phase (eukaryotic)	RXN-5463	EC-2.4.1.257	G2Z-7521-MONOMER	"GDP-Man:Man<small><sub>2</sub></small>GlcNAc<small><sub>2</sub></small>-<em>PP</em>-dolichol &alpha;-1,6-mannosyltransferase"	G2Z-7521	Manes.03G100400
+PWY-5800	xylan biosynthesis	RXN-9104	EC-2.4.2.24	G2Z-9109-MONOMER	"&alpha;-xylosyltransferase"	G2Z-9109	Manes.08G003900
+PWY-5097	L-lysine biosynthesis VI	DIAMINOPIMDECARB-RXN	EC-4.1.1.20	G2Z-7878-MONOMER	diaminopimelate decarboxylase	G2Z-7878	Manes.04G073800
+PWY-5046	2-oxoisovalerate decarboxylation to isobutanoyl-CoA	1.2.4.4-RXN	EC-1.2.4.4	G2Z-11533-MONOMER	3-methyl-2-oxobutanoate dehydrogenase	G2Z-11533	Manes.15G110600
+PWY-7221	guanosine ribonucleotides <i>de novo</i> biosynthesis	GDPKIN-RXN	EC-2.7.4.6	G2Z-8154-MONOMER		G2Z-8154	Manes.05G056000
+GLUTORN-PWY	L-ornithine biosynthesis I	ACETYLORNDEACET-RXN	EC-3.5.1.16	G2Z-11999-MONOMER	acetylornithine deacetylase	G2Z-11999	Manes.17G013000
+PWY-43	putrescine biosynthesis II	N-CARBAMOYLPUTRESCINE-AMIDASE-RXN	EC-3.5.1.53	G2Z-7736-MONOMER	<i>N</i>-carbamoylputrescine amidohydrolase	G2Z-7736	Manes.04G002800
+PWY-43	putrescine biosynthesis II	AGMATINE-DEIMINASE-RXN	EC-3.5.3.12	G2Z-6396-MONOMER	agmatine deaminase	G2Z-6396	Manes.01G023900
+PWY-43	putrescine biosynthesis II	ARGDECARBOX-RXN	EC-4.1.1.19	G2Z-7891-MONOMER	arginine decarboxylase, biosynthetic	G2Z-7891	Manes.04G083000
+PWY-43	putrescine biosynthesis II	ARGDECARBOX-RXN	EC-4.1.1.19	G2Z-10194-MONOMER	arginine decarboxylase, biosynthetic	G2Z-10194	Manes.11G081600
+ARGASEDEG-PWY	L-arginine degradation I (arginase pathway)	ORNITHINE-GLU-AMINOTRANSFERASE-RXN	EC-2.6.1.13	G2Z-11561-MONOMER		G2Z-11561	Manes.15G123600
+PWY-2161B	glutamate removal from folates	RXN-3741	EC-3.4.19.9	G2Z-7520-MONOMER	Folatepolyglutamate<sub>(n)</sub>	G2Z-7520	Manes.03G099600
+PWY-4302	aerobic respiration III (alternative oxidase pathway)	NADH-DEHYDROG-A-RXN	EC-1.6.5.3	G2Z-9416-MONOMER	NADH:ubiquinone oxidoreductase (H<sup>+</sup>-transporting)	G2Z-9416	Manes.08G162700
+PWY-5059	pinobanksin biosynthesis	RXN-7648	EC-1.14.11.9	G2Z-7077-MONOMER	(2S)-pinocembrin,2-oxoglutarate:oxygen oxidoreductase	G2Z-7077	Manes.02G104700
+PWY-5059	pinobanksin biosynthesis	RXN-7648	EC-1.14.11.9	G2Z-6421-MONOMER		G2Z-6421	Manes.01G043500
+ASPSYNII-PWY	cyanide detoxification I	3.5.5.4-RXN	EC-3.5.5.4	G2Z-7733-MONOMER	"&beta;-cyano-<i>L</i>-alanine nitrilase"	G2Z-7733	Manes.04G000700
+ASPSYNII-PWY	cyanide detoxification I	3-CYANOALANINE-HYDRATASE-RXN	EC-4.2.1.65	G2Z-7733-MONOMER	"&beta;-cyano-<i>L</i>-alanine hydratase"	G2Z-7733	Manes.04G000700
+LIPASYN-PWY	phospholipases	3.1.4.11-RXN	EC-3.1.4.11	G2Z-12536-MONOMER	phosphatidylinositol 4,5-bisphosphate lipase C	G2Z-12536	Manes.S029900
+GLYOXYLATE-BYPASS	glyoxylate cycle	MALATE-DEH-RXN	EC-1.1.1.37	G2Z-11394-MONOMER	malate dehydrogenase	G2Z-11394	Manes.15G040800
+GLUCONEO-PWY	gluconeogenesis I	PGLUCISOM-RXN	EC-5.3.1.9	G2Z-12333-MONOMER	glucose-6-phosphate isomerase	G2Z-12333	Manes.18G060600
+GLUCONEO-PWY	gluconeogenesis I	MALATE-DEH-RXN	EC-1.1.1.37	G2Z-11394-MONOMER	malate dehydrogenase	G2Z-11394	Manes.15G040800
+GLUCONEO-PWY	gluconeogenesis I	GAPOXNPHOSPHN-RXN	EC-1.2.1.12	G2Z-12221-MONOMER	glyceraldehyde-3-phosphate dehydrogenase	G2Z-12221	Manes.18G003300
+GLUCONEO-PWY	gluconeogenesis I	F16ALDOLASE-RXN	EC-4.1.2.13	G2Z-7072-MONOMER	fructose-bisphosphate aldolase	G2Z-7072	Manes.02G101600
+GLUCONEO-PWY	gluconeogenesis I	F16BDEPHOS-RXN	EC-3.1.3.11	G2Z-7222-MONOMER	fructose-1,6-bisphosphatase	G2Z-7222	Manes.02G178700
+PWY-3341	L-proline biosynthesis III	ORNITHINE-GLU-AMINOTRANSFERASE-RXN	EC-2.6.1.13	G2Z-11561-MONOMER		G2Z-11561	Manes.15G123600
+PWY-6441	spermine and spermidine degradation III	RXN-9015	EC-1.5.3.17	G2Z-7048-MONOMER	spermine oxidase	G2Z-7048	Manes.02G090500
+PWY-6441	spermine and spermidine degradation III	RXN-12089	EC-1.5.3.17	G2Z-7048-MONOMER	spermidine oxidase	G2Z-7048	Manes.02G090500
+PWY66-399	gluconeogenesis III	PGLUCISOM-RXN	EC-5.3.1.9	G2Z-12333-MONOMER	glucose-6-phosphate isomerase	G2Z-12333	Manes.18G060600
+PWY66-399	gluconeogenesis III	MALATE-DEH-RXN	EC-1.1.1.37	G2Z-11394-MONOMER	malate dehydrogenase	G2Z-11394	Manes.15G040800
+PWY66-399	gluconeogenesis III	GAPOXNPHOSPHN-RXN	EC-1.2.1.12	G2Z-12221-MONOMER	glyceraldehyde-3-phosphate dehydrogenase	G2Z-12221	Manes.18G003300
+PWY66-399	gluconeogenesis III	F16ALDOLASE-RXN	EC-4.1.2.13	G2Z-7072-MONOMER	fructose-bisphosphate aldolase	G2Z-7072	Manes.02G101600
+PWY66-399	gluconeogenesis III	F16BDEPHOS-RXN	EC-3.1.3.11	G2Z-7222-MONOMER	fructose-1,6-bisphosphatase	G2Z-7222	Manes.02G178700
+ARGSPECAT-PWY	spermine biosynthesis	SAMDECARB-RXN	EC-4.1.1.50	G2Z-6551-MONOMER	<i>S</i>-adenosylmethionine decarboxylase	G2Z-6551	Manes.01G106600
+PWY-3801	sucrose degradation II (sucrose synthase)	PGLUCISOM-RXN	EC-5.3.1.9	G2Z-12333-MONOMER	glucose-6-phosphate isomerase	G2Z-12333	Manes.18G060600
+PWY-5152	leucodelphinidin biosynthesis	RXN-7922	EC-1.14.11.9	G2Z-7077-MONOMER		G2Z-7077	Manes.02G104700
+PWY-5152	leucodelphinidin biosynthesis	RXN-7922	EC-1.14.11.9	G2Z-6421-MONOMER		G2Z-6421	Manes.01G043500
+PWY-7416	phospholipid remodeling (phosphatidylcholine, yeast)	RXN-1641	EC-2.3.1.158	G2Z-7392-MONOMER	phospholipid: lyso-phosphatidylcholine acyltransferase	G2Z-7392	Manes.03G037800
+PWY-7416	phospholipid remodeling (phosphatidylcholine, yeast)	RXN-1641	EC-2.3.1.158	G2Z-9331-MONOMER	phospholipid: lyso-phosphatidylcholine acyltransferase	G2Z-9331	Manes.08G117500
+PWY-7416	phospholipid remodeling (phosphatidylcholine, yeast)	RXN-15066	EC-2.3.1.23	G2Z-9331-MONOMER	acyl-CoA:lyso-phosphatidylcholine acyltransferase	G2Z-9331	Manes.08G117500
+PWY-5659	GDP-mannose biosynthesis	PGLUCISOM-RXN	EC-5.3.1.9	G2Z-12333-MONOMER	glucose-6-phosphate isomerase	G2Z-12333	Manes.18G060600
+TRIGLSYN-PWY	diacylglycerol and triacylglycerol biosynthesis	RXN-1641	EC-2.3.1.158	G2Z-7392-MONOMER	phospholipid: lyso-phosphatidylcholine acyltransferase	G2Z-7392	Manes.03G037800
+TRIGLSYN-PWY	diacylglycerol and triacylglycerol biosynthesis	RXN-1641	EC-2.3.1.158	G2Z-9331-MONOMER	phospholipid: lyso-phosphatidylcholine acyltransferase	G2Z-9331	Manes.08G117500
+TRIGLSYN-PWY	diacylglycerol and triacylglycerol biosynthesis	DIACYLGLYCEROL-O-ACYLTRANSFERASE-RXN	EC-2.3.1.20	G2Z-7392-MONOMER	acyl-CoA:diacylglycerol acyltransferase	G2Z-7392	Manes.03G037800
+TRIGLSYN-PWY	diacylglycerol and triacylglycerol biosynthesis	DIACYLGLYCEROL-O-ACYLTRANSFERASE-RXN	EC-2.3.1.20	G2Z-9699-MONOMER	acyl-CoA:diacylglycerol acyltransferase	G2Z-9699	Manes.09G158200
+PWY-7176	UTP and CTP <i>de novo</i> biosynthesis	UDPKIN-RXN	EC-2.7.4.6	G2Z-8154-MONOMER	UDP kinase	G2Z-8154	Manes.05G056000
+SUCSYN-PWY	sucrose biosynthesis I (from photosynthesis)	PGLUCISOM-RXN	EC-5.3.1.9	G2Z-12333-MONOMER	glucose-6-phosphate isomerase	G2Z-12333	Manes.18G060600
+SUCSYN-PWY	sucrose biosynthesis I (from photosynthesis)	F16BDEPHOS-RXN	EC-3.1.3.11	G2Z-7222-MONOMER	fructose-1,6-bisphosphatase	G2Z-7222	Manes.02G178700
+SUCSYN-PWY	sucrose biosynthesis I (from photosynthesis)	F16ALDOLASE-RXN	EC-4.1.2.13	G2Z-7072-MONOMER	fructose-bisphosphate aldolase	G2Z-7072	Manes.02G101600
+SUCSYN-PWY	sucrose biosynthesis I (from photosynthesis)	GAPOXNPHOSPHN-RXN	EC-1.2.1.12	G2Z-12221-MONOMER	glyceraldehyde-3-phosphate dehydrogenase	G2Z-12221	Manes.18G003300
+PWY-1121	suberin monomers biosynthesis	PALMITOYL-COA-HYDROLASE-RXN	EC-3.1.2.2	G2Z-7981-MONOMER		G2Z-7981	Manes.04G130600
+PWY-1121	suberin monomers biosynthesis	RXN-9666	EC-3.1.2.2	G2Z-7981-MONOMER		G2Z-7981	Manes.04G130600
+PWY-1121	suberin monomers biosynthesis	CAFFEOYL-COA-O-METHYLTRANSFERASE-RXN	EC-2.1.1.104	G2Z-10897-MONOMER	caffeoyl-CoA 3-<i>O</i>-methyltransferase	G2Z-10897	Manes.13G122600
+PWY-1121	suberin monomers biosynthesis	CAFFEOYL-COA-O-METHYLTRANSFERASE-RXN	EC-2.1.1.104	G2Z-11587-MONOMER	caffeoyl-CoA 3-<i>O</i>-methyltransferase	G2Z-11587	Manes.15G136300
+PWY-1121	suberin monomers biosynthesis	CAFFEOYL-COA-O-METHYLTRANSFERASE-RXN	EC-2.1.1.104	G2Z-12124-MONOMER	caffeoyl-CoA 3-<i>O</i>-methyltransferase	G2Z-12124	Manes.17G085500
+PWY-7344	"UDP-&alpha;-D-galactose biosynthesis"	UDPGLUCEPIM-RXN	EC-5.1.3.2	G2Z-7719-MONOMER	UDP-glucose 4-epimerase	G2Z-7719	Manes.03G206800
+PWY-5084	2-oxoglutarate decarboxylation to succinyl-CoA	RXN0-1147	EC-2.3.1.61	G2Z-11454-MONOMER	dihydrolipoyltranssuccinylase	G2Z-11454	Manes.15G069200
+PLPSAL-PWY	pyridoxal 5'-phosphate salvage I	PMPOXI-RXN	EC-1.4.3.5	G2Z-8081-MONOMER	pyridoxamine 5'-phosphate oxidase	G2Z-8081	Manes.05G020900
+PLPSAL-PWY	pyridoxal 5'-phosphate salvage I	PNPOXI-RXN	EC-1.4.3.5	G2Z-8081-MONOMER	pyridoxine 5'-phosphate oxidase	G2Z-8081	Manes.05G020900
+PWY-7039	phosphatidate metabolism, as a signaling molecule	3.1.4.11-RXN	EC-3.1.4.11	G2Z-12536-MONOMER	phosphatidylinositol 4,5-bisphosphate lipase C	G2Z-12536	Manes.S029900
+GLYCOLYSIS	glycolysis I (from glucose 6-phosphate)	PGLUCISOM-RXN	EC-5.3.1.9	G2Z-12333-MONOMER	glucose-6-phosphate isomerase	G2Z-12333	Manes.18G060600
+GLYCOLYSIS	glycolysis I (from glucose 6-phosphate)	F16BDEPHOS-RXN	EC-3.1.3.11	G2Z-7222-MONOMER	fructose-1,6-bisphosphatase	G2Z-7222	Manes.02G178700
+GLYCOLYSIS	glycolysis I (from glucose 6-phosphate)	F16ALDOLASE-RXN	EC-4.1.2.13	G2Z-7072-MONOMER	fructose-bisphosphate aldolase	G2Z-7072	Manes.02G101600
+GLYCOLYSIS	glycolysis I (from glucose 6-phosphate)	GAPOXNPHOSPHN-RXN	EC-1.2.1.12	G2Z-12221-MONOMER	glyceraldehyde-3-phosphate dehydrogenase	G2Z-12221	Manes.18G003300
+GLYCOLYSIS	glycolysis I (from glucose 6-phosphate)	PEPDEPHOS-RXN	EC-2.7.1.40	G2Z-9676-MONOMER	pyruvate kinase	G2Z-9676	Manes.09G143000
+PWY-7226	guanosine deoxyribonucleotides <i>de novo</i> biosynthesis I	DGDPKIN-RXN	EC-2.7.4.6	G2Z-8154-MONOMER	dGDP kinase	G2Z-8154	Manes.05G056000
+ARG-PRO-PWY	L-arginine degradation VI (arginase 2 pathway)	ORNITHINE-GLU-AMINOTRANSFERASE-RXN	EC-2.6.1.13	G2Z-11561-MONOMER		G2Z-11561	Manes.15G123600
+PWY-7205	CMP phosphorylation	CDPKIN-RXN	EC-2.7.4.6	G2Z-8154-MONOMER	CDP kinase	G2Z-8154	Manes.05G056000
+CHLOROPHYLL-SYN	3,8-divinyl-chlorophyllide <i>a</i> biosynthesis I (aerobic, light-dependent)	RXN0-1461	EC-1.3.3.3	G2Z-11692-MONOMER	coproporphyrinogen III oxidase	G2Z-11692	Manes.16G000600
+CHLOROPHYLL-SYN	3,8-divinyl-chlorophyllide <i>a</i> biosynthesis I (aerobic, light-dependent)	RXN1F-20	EC-6.6.1.1	G2Z-12060-MONOMER	magnesium chelatase	G2Z-12060	Manes.17G053100
+BSUBPOLYAMSYN-PWY	spermidine biosynthesis I	SAMDECARB-RXN	EC-4.1.1.50	G2Z-6551-MONOMER	<i>S</i>-adenosylmethionine decarboxylase	G2Z-6551	Manes.01G106600
+BSUBPOLYAMSYN-PWY	spermidine biosynthesis I	SPERMIDINESYN-RXN	EC-2.5.1.16	G2Z-10402-MONOMER	spermidine synthase	G2Z-10402	Manes.12G030300
+PWY-6483	ceramide degradation	RXN-11375	EC-3.5.1.23	G2Z-8311-MONOMER	ceramidase	G2Z-8311	Manes.05G140600
+PWY0-1507	biotin biosynthesis from 8-amino-7-oxononanoate I	2.8.1.6-RXN	EC-2.8.1.6	G2Z-7809-MONOMER	biotin synthase	G2Z-7809	Manes.04G040500
+PWY-561	superpathway of glyoxylate cycle and fatty acid degradation	MALATE-DEH-RXN	EC-1.1.1.37	G2Z-11394-MONOMER	malate dehydrogenase	G2Z-11394	Manes.15G040800
+PWY-361	phenylpropanoid biosynthesis	2.3.1.133-RXN	EC-2.3.1.133	G2Z-7925-MONOMER	shikimate O-hydroxycinnamoyltransferase	G2Z-7925	Manes.04G101700
+PWY-361	phenylpropanoid biosynthesis	CAFFEOYL-COA-O-METHYLTRANSFERASE-RXN	EC-2.1.1.104	G2Z-10897-MONOMER	caffeoyl-CoA 3-<i>O</i>-methyltransferase	G2Z-10897	Manes.13G122600
+PWY-361	phenylpropanoid biosynthesis	CAFFEOYL-COA-O-METHYLTRANSFERASE-RXN	EC-2.1.1.104	G2Z-11587-MONOMER	caffeoyl-CoA 3-<i>O</i>-methyltransferase	G2Z-11587	Manes.15G136300
+PWY-361	phenylpropanoid biosynthesis	CAFFEOYL-COA-O-METHYLTRANSFERASE-RXN	EC-2.1.1.104	G2Z-12124-MONOMER	caffeoyl-CoA 3-<i>O</i>-methyltransferase	G2Z-12124	Manes.17G085500
+PWY-361	phenylpropanoid biosynthesis	RXN-1125	EC-1.1.1.195	G2Z-10855-MONOMER	sinapyl alcohol dehydrogenase	G2Z-10855	Manes.13G102500
+PWY-5690	TCA cycle II (plants and fungi)	MALATE-DEH-RXN	EC-1.1.1.37	G2Z-11394-MONOMER	malate dehydrogenase	G2Z-11394	Manes.15G040800
+PWY-5113	UDP-D-apiose biosynthesis (from UDP-D-glucuronate)	RXN-7770	EC-4.1.1	G2Z-7752-MONOMER	UDP-D-apiose synthase	G2Z-7752	Manes.04G010600
+HOMOSERSYN-PWY	L-homoserine biosynthesis	HOMOSERDEHYDROG-RXN	EC-1.1.1.3	G2Z-12543-MONOMER	homoserine dehydrogenase	G2Z-12543	Manes.S033500
+PWY-7498	phenylpropanoids methylation (ice plant)	CAFFEOYL-COA-O-METHYLTRANSFERASE-RXN	EC-2.1.1.104	G2Z-10897-MONOMER	caffeoyl-CoA 3-<i>O</i>-methyltransferase	G2Z-10897	Manes.13G122600
+PWY-7498	phenylpropanoids methylation (ice plant)	CAFFEOYL-COA-O-METHYLTRANSFERASE-RXN	EC-2.1.1.104	G2Z-11587-MONOMER	caffeoyl-CoA 3-<i>O</i>-methyltransferase	G2Z-11587	Manes.15G136300
+PWY-7498	phenylpropanoids methylation (ice plant)	CAFFEOYL-COA-O-METHYLTRANSFERASE-RXN	EC-2.1.1.104	G2Z-12124-MONOMER	caffeoyl-CoA 3-<i>O</i>-methyltransferase	G2Z-12124	Manes.17G085500
+PWY-7346	"UDP-&alpha;-D-glucuronate biosynthesis (from UDP-glucose)"	UGD-RXN	EC-1.1.1.22	G2Z-6538-MONOMER	UDP-glucose 6-dehydrogenase	G2Z-6538	Manes.01G097900
+PWY-7346	"UDP-&alpha;-D-glucuronate biosynthesis (from UDP-glucose)"	UGD-RXN	EC-1.1.1.22	G2Z-12646-MONOMER	UDP-glucose 6-dehydrogenase	G2Z-12646	Manes.S094200
+PWY-4821	"UDP-&alpha;-D-xylose biosynthesis"	PWY-7346	-	G2Z-6538-MONOMER		G2Z-6538	Manes.01G097900
+PWY-4821	"UDP-&alpha;-D-xylose biosynthesis"	PWY-7346	-	G2Z-12646-MONOMER		G2Z-12646	Manes.S094200
+PWY-4821	"UDP-&alpha;-D-xylose biosynthesis"	UDP-GLUCURONATE-DECARBOXYLASE-RXN	EC-4.1.1.35	G2Z-7752-MONOMER	UDP-xylose synthase	G2Z-7752	Manes.04G010600
+PWY-6363	D-<i>myo</i>-inositol (1,4,5)-trisphosphate degradation	RXN-10952	EC-3.1.3.25	G2Z-7900-MONOMER		G2Z-7900	Manes.04G087000
+HISTSYN-PWY	L-histidine biosynthesis	PRIBFAICARPISOM-RXN	EC-5.3.1.16	G2Z-9160-MONOMER	1-(5-phosphoribosyl)-5-[(5-phosphoribosylamino)methylideneamino]imidazole-4-carboxamide isomerase	G2Z-9160	Manes.08G025500
+HISTSYN-PWY	L-histidine biosynthesis	HISTIDPHOS-RXN	EC-3.1.3.15	G2Z-7900-MONOMER	histidinol-phosphatase	G2Z-7900	Manes.04G087000
+HISTSYN-PWY	L-histidine biosynthesis	HISTOLDEHYD-RXN	-	G2Z-8565-MONOMER	histidinol dehydrogenase	G2Z-8565	Manes.06G058300
+HISTSYN-PWY	L-histidine biosynthesis	HISTALDEHYD-RXN	-	G2Z-8565-MONOMER	histidinal dehydrogenase	G2Z-8565	Manes.06G058300
+PWY-321	cutin biosynthesis	PALMITOYL-COA-HYDROLASE-RXN	EC-3.1.2.2	G2Z-7981-MONOMER		G2Z-7981	Manes.04G130600
+PWY-321	cutin biosynthesis	RXN-9666	EC-3.1.2.2	G2Z-7981-MONOMER		G2Z-7981	Manes.04G130600
+PWY-5083	NAD/NADH phosphorylation and dephosphorylation	NADH-KINASE-RXN	EC-2.7.1.86	G2Z-8781-MONOMER	NADH kinase	G2Z-8781	Manes.06G162500
+PWY-5083	NAD/NADH phosphorylation and dephosphorylation	NADH-DEHYDROG-A-RXN	EC-1.6.5.3	G2Z-9416-MONOMER	NADH:ubiquinone oxidoreductase (H<sup>+</sup>-transporting)	G2Z-9416	Manes.08G162700
+PWY-5083	NAD/NADH phosphorylation and dephosphorylation	NAD-KIN-RXN	EC-2.7.1.23	G2Z-8781-MONOMER	NAD kinase	G2Z-8781	Manes.06G162500
+PWY-5481	pyruvate fermentation to lactate	L-LACTATE-DEHYDROGENASE-RXN	EC-1.1.1.27	G2Z-6950-MONOMER	L-lactate dehydrogenase	G2Z-6950	Manes.02G038200
+PWY0-501	lipoate biosynthesis and incorporation I	RXN0-949	EC-2.8.1.8	G2Z-10952-MONOMER	lipoyl synthase	G2Z-10952	Manes.13G149900
+CYSTSYN-PWY	L-cysteine biosynthesis I	ACSERLY-RXN	EC-2.5.1.47	G2Z-9345-MONOMER	<i>O</i>-acetylserine sulfhydrylase	G2Z-9345	Manes.08G127200
+CYSTSYN-PWY	L-cysteine biosynthesis I	ACSERLY-RXN	EC-2.5.1.47	G2Z-9346-MONOMER	<i>O</i>-acetylserine sulfhydrylase	G2Z-9346	Manes.08G127300
+CYSTSYN-PWY	L-cysteine biosynthesis I	ACSERLY-RXN	EC-2.5.1.47	G2Z-9697-MONOMER	<i>O</i>-acetylserine sulfhydrylase	G2Z-9697	Manes.09G157100
+PWY-6619	adenine and adenosine salvage VI	ADENOSINE-KINASE-RXN	EC-2.7.1.20	G2Z-9842-MONOMER	adenosine kinase	G2Z-9842	Manes.10G047600
+PWY-6039	chlorogenic acid biosynthesis I	CAFFEOYL-COA-O-METHYLTRANSFERASE-RXN	EC-2.1.1.104	G2Z-10897-MONOMER	caffeoyl-CoA 3-<i>O</i>-methyltransferase	G2Z-10897	Manes.13G122600
+PWY-6039	chlorogenic acid biosynthesis I	CAFFEOYL-COA-O-METHYLTRANSFERASE-RXN	EC-2.1.1.104	G2Z-11587-MONOMER	caffeoyl-CoA 3-<i>O</i>-methyltransferase	G2Z-11587	Manes.15G136300
+PWY-6039	chlorogenic acid biosynthesis I	CAFFEOYL-COA-O-METHYLTRANSFERASE-RXN	EC-2.1.1.104	G2Z-12124-MONOMER	caffeoyl-CoA 3-<i>O</i>-methyltransferase	G2Z-12124	Manes.17G085500
+PWY-6039	chlorogenic acid biosynthesis I	2.3.1.133-RXN	EC-2.3.1.133	G2Z-7925-MONOMER	shikimate O-hydroxycinnamoyltransferase	G2Z-7925	Manes.04G101700
+PWY-7184	pyrimidine deoxyribonucleotides <i>de novo</i> biosynthesis I	DTDPKIN-RXN	EC-2.7.4.6	G2Z-8154-MONOMER	dTDP kinase	G2Z-8154	Manes.05G056000
+PWY-7184	pyrimidine deoxyribonucleotides <i>de novo</i> biosynthesis I	DUDPKIN-RXN	EC-2.7.4.6	G2Z-8154-MONOMER	dUDP kinase	G2Z-8154	Manes.05G056000
+PWY-7184	pyrimidine deoxyribonucleotides <i>de novo</i> biosynthesis I	DCDPKIN-RXN	EC-2.7.4.6	G2Z-8154-MONOMER	dCDP kinase	G2Z-8154	Manes.05G056000
+PWY-861	dhurrin biosynthesis	RXN-743	EC-2.4.1.85	G2Z-10589-MONOMER	UDP-glucose:<I>p</I>-hydroxymandelonitrile-<I>O</I>-glucosyltransferase	G2Z-10589	Manes.12G132300
+PWY-6040	chlorogenic acid biosynthesis II	2.3.1.133-RXN	EC-2.3.1.133	G2Z-7925-MONOMER	shikimate O-hydroxycinnamoyltransferase	G2Z-7925	Manes.04G101700
+PWY-7197	pyrimidine deoxyribonucleotide phosphorylation	DCDPKIN-RXN	EC-2.7.4.6	G2Z-8154-MONOMER	dCDP kinase	G2Z-8154	Manes.05G056000
+PWY-7197	pyrimidine deoxyribonucleotide phosphorylation	DTDPKIN-RXN	EC-2.7.4.6	G2Z-8154-MONOMER	dTDP kinase	G2Z-8154	Manes.05G056000
+PWY-6367	D-<i>myo</i>-inositol-5-phosphate metabolism	3.1.4.11-RXN	EC-3.1.4.11	G2Z-12536-MONOMER	phosphatidylinositol 4,5-bisphosphate lipase C	G2Z-12536	Manes.S029900
+PWY-735	jasmonic acid biosynthesis	12-OXOPHYTODIENOATE-REDUCTASE-RXN	EC-1.3.1.42	G2Z-7395-MONOMER	12-oxophytodienoate reductase	G2Z-7395	Manes.03G039700
+PWY-6351	D-<i>myo</i>-inositol (1,4,5)-trisphosphate biosynthesis	3.1.4.11-RXN	EC-3.1.4.11	G2Z-12536-MONOMER	phosphatidylinositol 4,5-bisphosphate lipase C	G2Z-12536	Manes.S029900
+PWY-2	putrescine degradation IV	AMINOBUTDEHYDROG-RXN	EC-1.2.1.19	G2Z-8647-MONOMER	"&gamma;-aminobutyraldehyde dehydrogenase"	G2Z-8647	Manes.06G100200
+PWY-401	galactolipid biosynthesis I	2.4.1.46-RXN	EC-2.4.1.46	G2Z-11203-MONOMER	monogalactosyldiacylglycerol synthase	G2Z-11203	Manes.14G118100
+PWY-5723	Rubisco shunt	PEPDEPHOS-RXN	EC-2.7.1.40	G2Z-9676-MONOMER	pyruvate kinase	G2Z-9676	Manes.09G143000
+PWY-5723	Rubisco shunt	PHOSPHORIBULOKINASE-RXN	EC-2.7.1.19	G2Z-12539-MONOMER	phosphoribulokinase	G2Z-12539	Manes.S031800
+PWY-5723	Rubisco shunt	RIB5PISOM-RXN	EC-5.3.1.6	G2Z-8580-MONOMER	ribose-5-phosphate isomerase	G2Z-8580	Manes.06G061700
+PWY-5723	Rubisco shunt	RIBULOSE-BISPHOSPHATE-CARBOXYLASE-RXN	EC-4.1.1.39	G2Z-6362-MONOMER	ribulose bisphosphate carboxylase	G2Z-6362	Manes.01G011500
+PWY-5123	<i>trans, trans</i>-farnesyl diphosphate biosynthesis	IPPISOM-RXN	EC-5.3.3.2	G2Z-10353-MONOMER	"isopentenyl-diphosphate &Delta;-isomerase"	G2Z-10353	Manes.12G005500
+PWY-5123	<i>trans, trans</i>-farnesyl diphosphate biosynthesis	IPPISOM-RXN	EC-5.3.3.2	G2Z-10667-MONOMER	"isopentenyl-diphosphate &Delta;-isomerase"	G2Z-10667	Manes.13G005300
+PWY-6803	phosphatidylcholine acyl editing	2.3.1.23-RXN	EC-2.3.1.23	G2Z-9331-MONOMER	1-acylglycerophosphocholine <em>O</em>-acyltransferase	G2Z-9331	Manes.08G117500

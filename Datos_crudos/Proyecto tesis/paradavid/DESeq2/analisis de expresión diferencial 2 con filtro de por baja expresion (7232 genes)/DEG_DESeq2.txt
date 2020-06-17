@@ -1,0 +1,17 @@
+Comparisons 	Up 	Down
+XopZ-Control 	138 	137
+XopV-Control 	745 	2803
+XopR-Control 	191 	178
+XopQ-Control 	252 	163
+XopN-Control 	163 	253
+XopL-Control 	26 	84
+XopK-Control 	102 	140
+XopE4-Control 	745 	3544
+XopE1-Control 	449 	261
+XopC2-Control 	113 	224
+XopAO1-Control 	234 	56
+XopAK-Control 	685 	287
+XopAG-Control 	923 	1623
+XopAE-Control 	719 	357
+XB3-Control 	619 	1265
+AvrBs2-Control 	763 	2037
