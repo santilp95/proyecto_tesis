@@ -29,7 +29,7 @@ from sklearn.cluster import KMeans
 from sklearn.metrics import silhouette_score
 
 #Obtener el directorio del proyecto#
-os.chdir("/home/ngaitan/Documents/proyecto_tesis")
+os.chdir("/home/ngaitan55/Documents/proyecto_tesis")
 
 #Obtener el ec de clasificación primordial de tipo enzimático a partir de listas de ec#
 def obtener_primer_ec(enzimas):
